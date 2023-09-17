@@ -28,7 +28,7 @@ me.say_hi()
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ## Table Tennis YouTube Channel
-
+- YouTube: <a href="https://www.youtube.com/channel/UCP7K-JqZu2aJ4TxrSPCCMfQ"> www.NeilYoshi</a>
 
 Here are some ideas to get you started:
 
