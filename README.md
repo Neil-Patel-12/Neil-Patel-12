@@ -1,4 +1,4 @@
-### ✨ Hi there 👋 Welcome to Neil's Github Page ✨
+## ✨ Hi there 👋 Welcome to Neil's Github Page ✨
 
 ```python
 # python is my favorite
