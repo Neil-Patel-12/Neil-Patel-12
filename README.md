@@ -10,7 +10,7 @@ class SoftwareEngineer:
         self.name = "Neil Patel"
         self.role = "Software Engineer"
         self.language_spoken = ["English", "Gujarati", "Hindi"]
-        self.interests = ["Space", "Table Tennes", "Flying Kites", "Chess", "Gardening", "Movies", "Cooking", "Origami"]
+        self.interests = ["Cinematography/ Photography", "Table Tennis", "Flying Kites", "Chess", "Gardening", "Movies", "Cooking", "Origami", "Space"]
 
     def say_hi(self):
         print("Thanks for visiting! Just wanted to say "/ Oranges are my favorit snacks"/")
