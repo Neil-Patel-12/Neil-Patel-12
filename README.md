@@ -30,8 +30,6 @@ me.say_hi()
 ## Table Tennis YouTube Channel
 - YouTube: <a href="https://www.youtube.com/channel/UCP7K-JqZu2aJ4TxrSPCCMfQ"> [www.NeilYoshi.com](https://www.youtube.com/channel/UCP7K-JqZu2aJ4TxrSPCCMfQ)</a>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently in search for Summer 2024 internships
 - 🌱 I’m currently learning Web Development through a cource on Udemy
 - 👯 I’m looking to collaborate on Machine Learning projects, so DM me if you want to contribute
