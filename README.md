@@ -30,8 +30,8 @@ me.say_hi()
 ## Table Tennis YouTube Channel
 - YouTube: <a href="https://www.youtube.com/channel/UCP7K-JqZu2aJ4TxrSPCCMfQ"> [www.NeilYoshi.com](https://www.youtube.com/channel/UCP7K-JqZu2aJ4TxrSPCCMfQ)</a>
 
-- 🔭 I’m currently in search for Summer 2024 internships
-- 🌱 I’m currently learning Web Development through a cource on Udemy
+- 🔭 I’m currently in search for full-stack web development Internship. (I want to become a web developer)
+- 🌱 I’m currently learning HTML, CSS, and JavaScript throught a course on Udemy.
 - 👯 I’m looking to collaborate on Machine Learning projects, so DM me if you want to contribute
 - ⚡ Fun fact: I can spin a backetball on my finger 😄
 
