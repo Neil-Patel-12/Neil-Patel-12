@@ -13,7 +13,7 @@ class SoftwareEngineer:
         self.interests = ["Cinematography/ Photography", "Table Tennis", "Flying Kites", "Chess", "Gardening", "Movies", "Cooking", "Origami", "Space"]
 
     def say_hi(self):
-        print("Thanks for visiting! Just wanted to say "/ Oranges are my favorit snacks"/")
+        print("Thanks for visiting! Just wanted to say \"Oranges are my favorit snacks\". ")
 
 me = SoftwareEngineer()
 me.say_hi()
