@@ -26,7 +26,9 @@ me.say_hi()
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<br>
+<img src="./icons/Npm-Dark.svg" width="48">
+<br>
 ## Table Tennis YouTube Channel
 - YouTube: <a href="https://www.youtube.com/channel/UCP7K-JqZu2aJ4TxrSPCCMfQ"> [www.NeilYoshi.com](https://www.youtube.com/channel/UCP7K-JqZu2aJ4TxrSPCCMfQ)</a>
 
