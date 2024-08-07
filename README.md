@@ -34,7 +34,7 @@ me.say_hi()
 - 👯 I’m looking to collaborate on Machine Learning projects, so DM me if you want to contribute
 - ⚡ Fun fact: I can spin a backetball on my finger 😄
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,nodejs,npm,react,svelte,sass,tailwind,bootstrap,vite,figmac,cs,cpp,go,aws,firebase,git,github,postman,powershell,windows,clion,matlab,pycharm,sublime,vscode,mongodb,postgres,sqlite)](https://skillicons.dev)
 
 
 
