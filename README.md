@@ -4,7 +4,7 @@
 ## 🔧 Technologies & Tools <br />
 
 
-## Table Tennis YouTube Channel
+### Table Tennis YouTube Channel
 - YouTube: <a href="https://www.youtube.com/channel/UCP7K-JqZu2aJ4TxrSPCCMfQ"> [www.NeilYoshi.com](https://www.youtube.com/channel/UCP7K-JqZu2aJ4TxrSPCCMfQ)</a>
 - 🔭 I’m currently in search for full-stack web development Internship. (I want to become a web developer)
 - 🌱 I’m currently learning HTML, CSS, and JavaScript throught a course on Udemy.
