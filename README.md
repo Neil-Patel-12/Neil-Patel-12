@@ -34,22 +34,15 @@ me.say_hi()
 - 👯 I’m looking to collaborate on Machine Learning projects, so DM me if you want to contribute
 - ⚡ Fun fact: I can spin a backetball on my finger 😄
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,html,css,js,nodejs,npm,react,svelte,sass,tailwind,bootstrap,vite,figma,c,cs,cpp,go,aws,firebase,git,github,postman,powershell,windows,clion,matlab,pycharm,sublime,vscode,mongodb,postgres,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,bootstrap,firebase,go,pycharm,mongodb,vite,express,matlab,django,py,sqlite,c,github,html,react,svelte,postman,css,sass,figma,clion,windows,nodejs,vscode,cpp,sublime,aws,postgres,git,cs,npm,powershell,tailwind)](https://skillicons.dev)
 
 
-
-
-<h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
-</h3>
 
 <h2 align="center">
 I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+okokok talk here
 
 ### 🤝 Connect with me:
-
-
 
