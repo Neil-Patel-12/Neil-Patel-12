@@ -9,6 +9,8 @@ I wish to get involved in more diverse companies and organizations and apply my 
   <li>🔎 I'm looking for opportunities where I can make an impact!</li>
   <li>🌱 Most used technology: Python, C++, JavaScript, react, Djanog, PostgreSQL</li>
   <li>🧠 I'm currently learning: GO, C#, Django</li>
+  <li>💯 Hobbies include: Pool, Ping-Pong, chess, origami, Astrophysics, Movies, Flying kites</li>
+  <li>🎵 Favorit music Artist: Still Woozy, Vansire, Metro Boomin, Sabrina Carpenter</li>
 </ul>
 
 <h2>Technologies & Tools 🔧</h2>
