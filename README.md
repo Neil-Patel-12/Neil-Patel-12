@@ -5,7 +5,7 @@ I wish to get involved in more diverse companies and organizations and apply my 
 <h2>About me 🍊</h2>
 <ul>
   <li>⚡ The thing i love most about CS is the freedom to create whatevery i want</li>
-  <li>🦙 Llama's LeetCode @ Eight: New UF Club</li>
+  <li>🦙 Llama's LeetCode @ Ten AM: New UF Club</li>
   <li>🔎 I'm looking for opportunities where I can make an impact!</li>
   <li>🌱 Most used technology: Python, C++, JavaScript, react, Djanog, PostgreSQL</li>
   <li>🧠 I'm currently learning: C#, Django</li>
