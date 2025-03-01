@@ -15,4 +15,4 @@ I wish to get involved in more diverse companies and organizations and apply my 
 
 <h2>Technologies & Tools 🔧</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,firebase,nodejs,git,figma,react,py,postgres,postman,django,c,cs,cpp,github,aws,tailwind,vite,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,firebase,nodejs,git,figma,react,next,typescript,py,postgres,postman,django,c,cpp,github,aws,tailwind,vite,html,css)](https://skillicons.dev)
